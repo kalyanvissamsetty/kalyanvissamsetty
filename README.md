@@ -63,7 +63,7 @@
 [twitter]: https://twitter.com/kalyan_youtuber
 [youtube]: https://www.youtube.com/channel/UCgqEyOBOA2cC0kAg0t1yYDg/videos
 [instagram]: https://www.instagram.com/vissamsettykalyan/
-[linkedin]: www.linkedin.com/in/vissamsettykalyan
+[linkedin]: https://www.linkedin.com/in/vissamsettykalyan/
 
 
 
