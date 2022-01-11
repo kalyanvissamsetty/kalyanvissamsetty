@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other tech content creators
-- 🥅 2020 Goals: Learn and Contribute projects
 - ⚡ Fun fact: I love to try new outfits
 
 
