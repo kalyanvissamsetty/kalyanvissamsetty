@@ -1,6 +1,6 @@
 ### Hi there, I'm Kalyan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kalyan_youtuber?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kalyan_youtuber)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vkalyan2002?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=vkalyan2002)
 
 ## I'm a Student, Developer, and Youtuber!!
 
